@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7868
     wikipedia: http://en.wikipedia.org/wiki/Henry_Steel_Olcott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18194#The-Life-of-Buddha-and-Its-Lessons
 gutenberg_bookshelf: Buddhism
 gutenberg_issued: '2006-04-17'
 gutenberg_type: Text
